@@ -4,12 +4,6 @@
 ### 📧 You can reach me at my e-mail: emanoelthyago3002@gmail.com or etcs@cin.ufpe.br
 
   ##
-
-<div align="center">
-  <a href="https://github.com/ThyagoSnt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThyagoSnt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThyagoSnt&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   <div align="center" style="display: inline_block"><br>
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
