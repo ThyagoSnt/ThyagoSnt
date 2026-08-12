@@ -1,6 +1,6 @@
 ## Hello, my name is Emanoel Thyago. I am a student in the Computer Engineering program at the Center for Informatics of UFPE (Federal University of Pernambuco)!
-### 📓 I have some experience with Computer Vision, NLP, ROS (Robot Operating System), Docker, Cuda programming, Image processing, Machine Learning and Deep Learning.
-### 🌱 I'm currently in the last semester of Computer Engineering, researching and applying computer vision for autonomous drones and ground robots in the Robôcin robotics group! I research artificial intelligence applications in the field of dermatology!
+### 📓 I have some experience with Computer Vision, NLP, Image processing, Machine Learning and Deep Learning.
+### 🌱 I'm currently in the last semester of Computer Engineering!
 ### 📧 You can reach me at my e-mail: emanoelthyago3002@gmail.com or etcs@cin.ufpe.br
 
   ##
